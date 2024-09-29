@@ -1,1 +1,0 @@
-# Isuranga-s-SonarQube
